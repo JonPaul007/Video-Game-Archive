@@ -8,7 +8,11 @@ And finally the last table being for the useres own personal library. Once you c
 to your own personal one, the record of that game is copied and transferred over to the personal library table.
 The site handles empty personal librarys by telling telling users to go to the central library/archive to add games,
 and provides acces to it with buttons on both the main screen or personal library screen. 
-Once a user is done there is a logout button is logout users.
+The main page also contains a search bar that can search for games by full name, or find it by interpreting keywords. The search is not case sensitive.
+It is shown off in the display video. 
+
+
+Once a user is done there is a logout button to logout your current user and close your session. 
 
 
 Games must be added thru the database-
